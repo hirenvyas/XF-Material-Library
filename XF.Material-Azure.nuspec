@@ -7,7 +7,7 @@
     <authors>Dustin Catap</authors>
     <owners>Dustin Catap</owners>
     <projectUrl>https://github.com/contrix09/XF-Material-Library</projectUrl>
-    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://github.com/contrix09/XF-Material-Library/blob/master/LICENSE.md</licenseUrl>
     <iconUrl>https://github.com/contrix09/XF-Material-Library/raw/master/images/xf.material_logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <releaseNotes>https://github.com/contrix09/XF-Material-Library/blob/master/RELEASE_NOTES.md</releaseNotes>
@@ -52,7 +52,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="\LICENSE.md" target="" />
     <file src="XF.Material.Forms\bin\Release\netstandard2.0\XF.Material.Forms.dll"
           target="lib\netstandard2.0" />
     <file src="XF.Material.Forms\bin\Release\netstandard2.0\XF.Material.Forms.pdb"
