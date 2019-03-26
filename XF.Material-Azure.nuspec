@@ -52,7 +52,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="LICENSE.md" target="" />
+    <file src="\LICENSE.md" target="" />
     <file src="XF.Material.Forms\bin\Release\netstandard2.0\XF.Material.Forms.dll"
           target="lib\netstandard2.0" />
     <file src="XF.Material.Forms\bin\Release\netstandard2.0\XF.Material.Forms.pdb"
